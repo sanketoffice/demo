@@ -8,7 +8,21 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "profile": [
+    {
+      "id": 1,
+      "name": "sanket",
+      "profile": "web designer"
+    },
+    {
+      "id": 2,
+      "name": "shubham",
+      "profile": "web developer"
+    },
+    {
+      "id": 3,
+      "name": "purva",
+      "profile": "Singer"
+    }
+  ]
 }
